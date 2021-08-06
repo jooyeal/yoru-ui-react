@@ -1,0 +1,94 @@
+/*RED*/
+const RED = {
+  RED50: "#ffebee",
+  RED100: "#ffcdd2",
+  RED200: "#ef9a9a",
+  RED300: "#e57373",
+  RED400: "#ef5350",
+  RED500: "#f44336",
+  RED600: "#e53935",
+  RED700: "#d32f2f",
+  RED800: "#c62828",
+  RED900: "#b71c1c"
+};
+/*PINK*/
+
+const PINK = {
+  PINK50: "#fce4ec",
+  PINK100: "#f8bbd0",
+  PINK200: "#f48fb1",
+  PINK300: "#f06292",
+  PINK400: "#ec407a",
+  PINK500: "#e91e63",
+  PINK600: "#d81b60",
+  PINK700: "#c2185b",
+  PINK800: "#ad1457",
+  PINK900: "#880e4f"
+};
+/*PURPLE*/
+
+const PURPLE = {
+  PURPLE50: "#f3e5f5",
+  PURPLE100: "#e1bee7",
+  PURPLE200: "#ce93d8",
+  PURPLE300: "#ba68c8",
+  PURPLE400: "#ab47bc",
+  PURPLE500: "#9c27b0",
+  PURPLE600: "#8e24aa",
+  PURPLE700: "#7b1fa2",
+  PURPLE800: "#6a1b9a",
+  PURPLE900: "#4a148c"
+};
+/*DEEPPURPLE*/
+
+const DEEPPURPLE = {
+  DEEPPURPLE50: "#ede7f6",
+  DEEPPURPLE100: "#d1c4e9",
+  DEEPPURPLE200: "#b39ddb",
+  DEEPPURPLE300: "#9575cd",
+  DEEPPURPLE400: "#7e57c2",
+  DEEPPURPLE500: "#673ab7",
+  DEEPPURPLE600: "#5e35b1",
+  DEEPPURPLE700: "#512da8",
+  DEEPPURPLE800: "#4527a0",
+  DEEPPURPLE900: "#311b92"
+};
+/*INDIGO*/
+
+const INDIGO = {
+  INDIGO50: "#e8eaf6",
+  INDIGO100: "#c5cae9",
+  INDIGO200: "#9fa8da",
+  INDIGO300: "#7986cb",
+  INDIGO400: "#5c6bc0",
+  INDIGO500: "#3f51b5",
+  INDIGO600: "#3949ab",
+  INDIGO700: "#303f9f",
+  INDIGO800: "#283593",
+  INDIGO900: "#1a237e"
+};
+const GREEN = {
+  GREEN50: "#E8F5E9",
+  GREEN100: "#C8E6C9",
+  GREEN200: "#A5D6A7",
+  GREEN300: "#81C784",
+  GREEN400: "#66BB6A",
+  GREEN500: "#4CAF50",
+  GREEN600: "#43A047",
+  GREEN700: "#388E3C",
+  GREEN800: "#2E7D32",
+  GREEN900: "#1B5E20"
+};
+const GREY = {
+  GREY50: "#FAFAFA",
+  GREY100: "#F5F5F5",
+  GREY200: "#EEEEEE",
+  GREY300: "#E0E0E0",
+  GREY400: "#BDBDBD",
+  GREY500: "#9E9E9E",
+  GREY600: "#757575",
+  GREY700: "#616161",
+  GREY800: "#424242",
+  GREY900: "#212121"
+};
+export { RED, PINK, PURPLE, DEEPPURPLE, INDIGO, GREEN, GREY };
