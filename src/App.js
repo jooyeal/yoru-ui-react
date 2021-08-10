@@ -44,7 +44,15 @@ function App() {
                   { subTitle: "TextField", to: "/component/textfield" },
                   { subTitle: "HeaderBar", to: "/component/headerbar" },
                   { subTitle: "SideBar", to: "/component/sidebar" },
+                  { subTitle: "CheckBox", to: "/component/checkbox" },
+                  { subTitle: "Radio", to: "/component/radio" },
+                  { subTitle: "ToolTip", to: "/component/tooltip" },
+                  { subTitle: "Badge", to: "/component/badge" },
                 ],
+              },
+              {
+                title: "TestPage",
+                content: [{ subTitle: "Test", to: "/testpage" }],
               },
             ]}
             open={openSide}
